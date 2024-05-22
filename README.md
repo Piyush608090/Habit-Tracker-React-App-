@@ -1,6 +1,6 @@
 # Habit-Tracker-React-App-
-A Habit Tracking Application using React 
-Hosted Link:https://664dbbae5caf3dd4b9e24f5f--steady-daffodil-4bdb30.netlify.app/
+A Habit Tracking Application using React <br>
+Hosted Link:https://664dbbae5caf3dd4b9e24f5f--steady-daffodil-4bdb30.netlify.app/ <br>
 Technology Use
 1. React <br>
 2. Redux <br>
@@ -14,11 +14,11 @@ Technology Use
 4. Set day to done,undone,none<br>
 <h1>Images</h1>
 Home View
-![Screenshot (28)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/58fa900b-33ef-409f-b0ce-d935ce25569d)
+![Screenshot (28)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/ed98165e-6afd-426c-9a5e-66d44218b0c0)
 Add View
-![Screenshot (30)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/842c73aa-ec27-42d1-acf2-0126c594ec2f)
+![Screenshot (29)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/ba249d8d-1511-452a-844d-940362311f20)
 Week View
-![Screenshot (29)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/a7bb459c-7fb0-4904-b001-e271d09b2745)
+![Screenshot (30)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/7bbf7a29-9447-4c9a-a9e1-8b20ef351dee)
 
 # Getting Started with Habit-Tracker-React-App
 
