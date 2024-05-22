@@ -1,5 +1,25 @@
 # Habit-Tracker-React-App-
-A Habit Tracking Application using React and Reduc 
+A Habit Tracking Application using React 
+Hosted Link:https://664dbbae5caf3dd4b9e24f5f--steady-daffodil-4bdb30.netlify.app/
+Technology Use
+1. React <br>
+2. Redux <br>
+3. Redux Toolkit <br>
+4. Link <br>
+5 Use Dispatch  etc <br>
+<h1>Features</h1> <br>
+1.Add Task <br>
+2.Delete Task <br>
+3. Week View <br>
+4. Set day to done,undone,none<br>
+<h1>Images</h1>
+Home View
+![Screenshot (28)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/58fa900b-33ef-409f-b0ce-d935ce25569d)
+Add View
+![Screenshot (30)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/842c73aa-ec27-42d1-acf2-0126c594ec2f)
+Week View
+![Screenshot (29)](https://github.com/Piyush608090/Habit-Tracker-React-App-/assets/119125610/a7bb459c-7fb0-4904-b001-e271d09b2745)
+
 # Getting Started with Habit-Tracker-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
